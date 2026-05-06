@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Class Timetable</h1>
+    <h1>My Timetable App</h1>
 
     <!-- Days -->
     <div class="days">
