@@ -33,11 +33,11 @@ const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
 const selectedDay = ref(null)
 
 const timetable = {
-  Monday: ["Math", "English", "ICT"],
-  Tuesday: ["Biology", "Chemistry", "PE"],
-  Wednesday: ["Physics", "Math", "English"],
-  Thursday: ["History", "ICT", "Geography"],
-  Friday: ["Chemistry", "Math", "Sports"]
+  Monday: ["UI/UX", "javascript", "free", "Math", "graphic design"],
+  Tuesday: ["javascript", "javascript practice", "computer literacy", "version control"],
+  Wednesday: ["version control", "game in vue", "free", "math"],
+  Thursday: ["UI/UX", "javascript", "javascript practice", "physics", "javascript practice", "javascript practice"],
+  Friday: ["game in vue", "french", "Sports and free"]
 }
 
 function selectDay(day) {
