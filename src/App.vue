@@ -37,7 +37,7 @@ const timetable = {
   Tuesday: ["javascript", "javascript practice", "computer literacy", "version control"],
   Wednesday: ["version control", "game in vue", "free", "math"],
   Thursday: ["UI/UX", "javascript", "javascript practice", "physics", "javascript practice", "javascript practice"],
-  Friday: ["game in vue", "french", "Sports and free"]
+  Friday: ["game in vue", "french", "Sports and free."]
 }
 
 function selectDay(day) {
